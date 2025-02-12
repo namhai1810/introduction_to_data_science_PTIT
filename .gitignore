@@ -1,0 +1,8 @@
+*.pth
+*.pkl
+logs/
+*.zip
+data/
+logs*/
+nerfies.github.io/
+*.pyc
